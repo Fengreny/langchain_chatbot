@@ -21,21 +21,3 @@ This project includes a chatbot service built with FastAPI and integrated with t
 4. Run the FastAPI server.
 5. Use the provided test script or API calls to interact with the chatbot.
 
-## Documentation
-
-- API documentation is available in `API.md`.
-- Detailed solution overview can be found in `SOLUTION.md`.
-
-## Future Work
-
-- Enhance the chatbot's capabilities with more features.
-- Implement user authentication.
-- Improve error handling and logging.
-
-## Contributions
-
-Contributions to this project are welcome. Feel free to fork the repository and submit pull requests.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
